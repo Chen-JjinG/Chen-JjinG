@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+![](https://count.getloli.com/get/@:Chen-JjinG?theme=asoul)
+<h1 style="background-color:DodgerBlue;">I really like codeding!!!</h1>
 
 <!--
 **Chen-JjinG/Chen-JjinG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
